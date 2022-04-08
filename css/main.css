@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: rgb(209, 51, 133);
+}
+
+header h1 {
+    font-size: 30pt;
+}
